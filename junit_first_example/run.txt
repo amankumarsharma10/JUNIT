@@ -1,0 +1,11 @@
+Run Application: three ways:
+
+1.  Run with JUnit Test suite
+    run JunitTestSuite class
+
+2.  Run test from the command line using main method
+    run JunitTestSuiteRunner class
+
+3.  Run test cases one by one
+    run FirstDayAtSchoolTest1 class
+    run FirstDayAtSchoolTest2 class
